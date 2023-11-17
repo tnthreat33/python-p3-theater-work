@@ -1,4 +1,4 @@
-# Phase 3 Mock Code Challenge: Theater Work
+# Phase 3 Mock Code Challenge: Theater Work.
 
 ## Learning Goals
 
